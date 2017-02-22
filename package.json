@@ -1,0 +1,12 @@
+{
+  "name": "threeJS",
+  "version": "1.0.0",
+  "description": "una prova di utilizzo della libreria three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luca Bortolussi",
+  "license": "ISC",
+  "dependencies": {}
+}
